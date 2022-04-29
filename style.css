@@ -40,3 +40,10 @@
   margin: 10px 10%;
   text-align: left;
 }
+
+@media (max-width: 900px) {
+  .content {
+    width: 80%;
+  }
+}
+
